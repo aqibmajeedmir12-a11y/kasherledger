@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aqibmajeedmir12-ally.github.io/kasherledger/sitemap.xml
